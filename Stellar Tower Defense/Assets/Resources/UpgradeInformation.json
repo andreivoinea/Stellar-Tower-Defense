@@ -1,0 +1,166 @@
+{
+    "upgradeList": [
+        {
+            "price" : -1,
+            "fireRateNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "fireRatePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "damageNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "damagePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "rangeNumber": [
+            ],
+            "rangePrice": [
+            ]
+        },
+        {
+            "price": 100,
+            "fireRateNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "fireRatePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "damageNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "damagePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "rangeNumber": [
+                1,
+                2,
+                3
+            ],
+            "rangePrice": [
+                0,
+                10,
+                10
+
+            ]
+        },
+        {
+            "price": 200,
+            "fireRateNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "fireRatePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "damageNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "damagePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "rangeNumber": [
+                1,
+                2,
+                3
+            ],
+            "rangePrice": [
+                0,
+                10,
+                10
+
+            ]
+        },
+        {
+            "price": 400,
+            "fireRateNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "fireRatePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "damageNumber": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "damagePrice": [
+                0,
+                10,
+                10,
+                10,
+                10
+            ],
+            "rangeNumber": [
+                1,
+                2,
+                3
+            ],
+            "rangePrice": [
+                0,
+                10,
+                10
+
+            ]
+        }
+
+    ]
+}

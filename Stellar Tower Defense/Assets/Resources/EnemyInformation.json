@@ -1,0 +1,76 @@
+{
+    "entityList": [
+        {
+            "prefabName": "Enemies/SmallShip",
+            "projectilePrefabName": "LaserProjectile",
+            "hitPoints": 1,
+            "speed": 0.3,
+            "fireRate": 1,
+            "damage": 1,
+            "price": 10
+        },
+        {
+            "prefabName": "Enemies/SmallShip",
+            "projectilePrefabName": "LaserProjectile",
+            "hitPoints": 5,
+            "speed": 0.6,
+            "fireRate": 2,
+            "damage": 1,
+            "price": 10
+        },
+        {
+            "prefabName": "Enemies/SmallShip",
+            "projectilePrefabName": "MissleProjectile",
+            "hitPoints": 20,
+            "speed": 1,
+            "fireRate": 1,
+            "damage": 3,
+            "price": 10
+        },
+        {
+            "prefabName": "Enemies/MediumShip",
+            "projectilePrefabName": "LaserProjectile",
+            "hitPoints": 25,
+            "speed": 0.7,
+            "fireRate": 1,
+            "damage": 2,
+            "price": 10
+        },
+        {
+            "prefabName": "Enemies/MediumShip",
+            "projectilePrefabName": "LaserProjectile",
+            "hitPoints": 25,
+            "speed": 0.7,
+            "fireRate": 2,
+            "damage": 2,
+            "price": 10
+        },
+        {
+            "prefabName": "Enemies/MediumShip",
+            "projectilePrefabName": "MissleProjectile",
+            "hitPoints": 50,
+            "speed": 0.7,
+            "fireRate": 1,
+            "damage": 5,
+            "price": 10
+        },
+        {
+            "prefabName": "Enemies/BigShip",
+            "projectilePrefabName": "LaserProjectile",
+            "hitPoints": 100,
+            "speed": 0.6,
+            "fireRate": 4,
+            "damage": 2.5,
+            "price": 10
+        },
+        {
+            "prefabName": "Enemies/Cruiser",
+            "projectilePrefabName": "MissleProjectile",
+            "hitPoints": 200,
+            "speed": 0.4,
+            "fireRate": 1,
+            "damage": 25,
+            "price": 10
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "currency": 2000,
+    "level": 1,
+    "towerList": [
+        {
+            "type": 0,
+            "upgradeStats": {
+                "fireRateUpgrades": 0,
+                "damageUpgrades": 0,
+                "rangeUpgrades": 0
+            },
+            "positions": [ {} ]
+        }
+    ]
+}

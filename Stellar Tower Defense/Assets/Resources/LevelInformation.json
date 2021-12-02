@@ -1,0 +1,172 @@
+{
+    "levelList": [
+        {
+            "gapNumber": 1,
+            "enemiesPerSpawn": 1,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 1,
+            "enemiesPerSpawn": 1,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0,
+                0,
+                1,
+                1,
+                0,
+                1
+            ]
+        },
+        {
+            "gapNumber": 1,
+            "enemiesPerSpawn": 2,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 2,
+            "enemiesPerSpawn": 2,
+            "enemySequence": [
+                0,
+                3,
+                6,
+                7,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 2,
+            "enemiesPerSpawn": 3,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 2,
+            "enemiesPerSpawn": 3,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 3,
+            "enemiesPerSpawn": 4,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 3,
+            "enemiesPerSpawn": 4,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 3,
+            "enemiesPerSpawn": 4,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "gapNumber": 4,
+            "enemiesPerSpawn": 5,
+            "enemySequence": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}
